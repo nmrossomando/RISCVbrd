@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RISCVbrd-cache)(type Legacy)(uri /home/nick/Electronics/RISCVTB/RISCVbrd/RISCVbrd-cache.lib)(options "")(descr ""))
+)
